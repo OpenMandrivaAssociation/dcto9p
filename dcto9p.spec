@@ -62,3 +62,13 @@ EOF
 %clean
 rm -rf %{buildroot}
 
+
+
+%changelog
+* Tue Aug 02 2011 Andrey Bondrov <abondrov@mandriva.org> 11.0-2mdv2012.0
++ Revision: 692803
+- imported package dcto9p
+
+
+* Sun Nov 09 2008 Guillaume Rousse <guillomovitch@zarb.org> 11.0-1plf2009.1
+- contributed by Jean-Christophe Cardot (<plf@cardot.net>)
