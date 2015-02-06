@@ -1,7 +1,7 @@
 Summary:	Thomson TO9+ emulator
 Name:		dcto9p
 Version:	11.0
-Release:	3
+Release:	4
 License:	GPLv3+
 Group:		Emulators
 Url:		http://dcto9p.free.fr/
