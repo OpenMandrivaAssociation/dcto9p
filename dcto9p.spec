@@ -4,7 +4,7 @@ Version:	11.0
 Release:	4
 License:	GPLv3+
 Group:		Emulators
-Url:		http://dcto9p.free.fr/
+Url:		https://dcto9p.free.fr/
 Source0:	http://dcto9p.free.fr/v11/download/%{name}v%{version}.tar.gz
 Source1:	%{name}-32.png
 Source2:	%{name}-16.png
